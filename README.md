@@ -5,7 +5,7 @@ This repo is the implementation of 《Lightweight Weed Detection
 # Install
 ```bash
 $ git clone https://github.com/wenbin-zheng/Weed-DETR.git
-$ cd 
+$ cd Weed-DETR
 $ pip install -r requirements.txt
 ```
 <summary>Install</summary>
@@ -32,8 +32,6 @@ $ python val.py --data dataset/data.yaml --imgsz=640
 train.py allows you to train new model from strach.
 ```bash
 $ python train.py --batch 4 --imgsz 640 --data dataset/data.yaml  --device 0 --epochs 250
-```
-```
 ```
 
 # References
