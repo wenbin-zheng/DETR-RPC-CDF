@@ -29,7 +29,7 @@ $ pip install -r requirements.txt
 $ python val.py --data dataset/data.yaml --imgsz=640
 ```
 # Train
-train.py allows you to train new model from strach.
+train.py allows you to train new model.
 ```bash
 $ python train.py --batch 4 --imgsz 640 --data dataset/data.yaml  --device 0 --epochs 250
 ```
