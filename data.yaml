@@ -1,0 +1,14 @@
+
+
+train: H:/yankunyu/yankunyu/CropandWeed/images/train
+val: H:/yankunyu/yankunyu/CropandWeed/images/val
+test: H:/yankunyu/yankunyu/CropandWeed/images/test
+
+
+
+# number of classes
+nc: 24
+
+# class names
+names: ['Maiz', 'Sugar beet', 'Sunflower', 'Bean', 'Pea', 'Soy','Potato','Pumpkin','Grasses','Thistle','Geranium','Knotweed','Amaranth','Goosefoot','Potato weed','Chamomile',
+      'Crucifer','Plantago','Poppy','Corn spurry','Mercuries','Solanales','Chickweed','Labiate']
