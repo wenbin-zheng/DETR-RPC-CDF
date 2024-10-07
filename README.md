@@ -15,9 +15,6 @@ $ pip install -r requirements.txt
 
 
 
-# Updates
-
-* Upload weed-detr.pt and a portion of the code.
 
 # Inference
 
