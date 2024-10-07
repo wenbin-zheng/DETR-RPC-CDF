@@ -1,10 +1,9 @@
-# Weed-DETR
-This repo is the implementation of "Lightweight Weed Detection
- Model Based on Re-parameterized Partial Convolution and Multi-Scale Feature Fusion".This study proposes a lightweight model for weed detection named  Weed DEtection TRansformer(Weed-DETR).  We propose a novel convolution for backbone networks called re-parameterized partial convolution (RP-Conv).In the feature fusion stage, we introduce the Collection-Distribution Feature Fusion (CDFF) mechanism. Our proposed method meets the requirements for accuracy and lightweight design in weed identification, providing the necessary technical support for real-time weed detection in the field.
+# DETR-RPC-CDF
+This repo is the implementation of "Lightweight Weed Detection using Re-parameterized Partial Convolution and Collection-Distribution Feature Fusion". This paper proposes a lightweight DEtection TRansformer model (DETR-RPC-CDF) with Re-parameterized Partial Convolution (RPC) and Collection-Distribution feature Fusion (CDF) mechanism.  This model employs Re-parameterized Partial Convolution (RPC) in the backbone network to reduce computational redundancy and enhance detection speed.   Additionally, This model introduces a Collection-Distribution Feature Fusion (CDF) mechanism to reduce information loss during feature integration and preserve multi-scale details.
 
 # Install
 ```bash
-$ git clone https://github.com/wenbin-zheng/Weed-DETR.git
+$ git clone https://github.com/wenbin-zheng/DETR-RPC-CDF.git
 $ cd Weed-DETR
 $ pip install -r requirements.txt
 ```
