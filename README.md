@@ -4,7 +4,7 @@ This repo is the implementation of "Lightweight Weed Detection using Re-paramete
 # Install
 ```bash
 $ git clone https://github.com/wenbin-zheng/DETR-RPC-CDF.git
-$ cd Weed-DETR
+$ cd DETR-RPC-CDF
 $ pip install -r requirements.txt
 ```
 <summary>Install</summary>
