@@ -10,7 +10,7 @@ $ pip install -r requirements.txt
 <summary>Install</summary>
 
 [**Python>=3.8.0**](https://www.python.org/) is required with all
-[requirements.txt](https://github.com/ultralytics/yolov5/blob/master/requirements.txt) installed including
+[requirements.txt](https://github.com/lyuwenyu/RT-DETR/blob/main/rtdetr_pytorch/requirements.txt) installed including
 [**PyTorch>=1.8**](https://pytorch.org/get-started/locally/):
 
 
